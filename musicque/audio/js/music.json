@@ -1,11 +1,21 @@
 [
+   
   {
-   "cov":"http://img3.kuwo.cn/star/starheads/120/6/71/3964955851.jpg",
-   "voi":"http://win.web.nf03.sycdn.kuwo.cn/6eecdb59c24d776ad35f9309e3cf4f1b/5af6e829/resource/a1/38/6/830177553.aac",
-    "tit":"123我爱你-戚砚笛",
+    "cov": "http://img2.kuwo.cn/star/starheads/240/71/48/2963446299.jpg",
+    "voi": "http://other.web.ra01.sycdn.kuwo.cn/resource/n2/192/11/54/2132876119.mp3",
+    "tit": "后来-刘若英",
+    "lrcUrl": "audio/lrc/hl.lrc",
+    "inf": "姓名： 刘若英 <br /> 性别： 女 <br />   国籍： 中国台湾 <br /> 语言： 国语;<br />  出生地： 台湾台北市 <br /> 生日： 1970-06-01 <br /> 星座： 双子座 <br /> 身高： 160cm <br /> 体重： 46kg"
+  }
+  
+  
+
+  {
+    "cov":"http://img4.kuwo.cn/star/starheads/240/61/54/2102134023.jpg",
+    "voi":"http://other.web.ra01.sycdn.kuwo.cn/resource/n2/192/69/30/1696331887.mp3",
+    "tit":"头发乱了-张学友",
     "lrcUrl":"audio/lrc/tfll.lrc",
-    "inf":简介：戚砚笛，1995年出生，中国内地女演员。2017年，参演民国玄幻网剧《超级小郎中》。2018年4月，参加女团青春成长节目《创造101》；5月21日，主演的爱情电影《亲爱的，我要和别人结婚了》上映。"},
-  {
+    "inf":"姓名： 张学友 <br /> 性别： 男 <br />  国籍： 中国香港 <br /> 语言： 英语;国语;粤语; <br /> 出生地： 中国香港鲗鱼涌 <br /> 生日： 1961-7-10 <br /> 星座： 巨蟹座 <br /> 身高： 176cm <br /> 体重： 64kg" },{
     "cov":"http://star.kuwo.cn/star/starheads/180/44/10/3787691319.jpg",
     "voi":"http://other.web.ra01.sycdn.kuwo.cn/resource/n1/192/23/45/2735055960.mp3",
     "tit":"浮夸-陈奕迅",
@@ -33,11 +43,5 @@
     "lrcUrl": "audio/lrc/ajjrx.lrc",
     "inf": "姓名： 梁静茹 <br /> 性别： 女 <br /> 国籍： 马来西亚 <br /> 语言： 国语; <br /> 出生地： 马来西亚森美兰州瓜拉庇劳县  <br /> 生日： 1978-06-16 <br /> 星座： 双子座 <br /> 身高： 156cm <br /> 体重： 45kg"
   },
-  {
-    "cov": "http://img2.kuwo.cn/star/starheads/240/71/48/2963446299.jpg",
-    "voi": "http://other.web.ra01.sycdn.kuwo.cn/resource/n2/192/11/54/2132876119.mp3",
-    "tit": "后来-刘若英",
-    "lrcUrl": "audio/lrc/hl.lrc",
-    "inf": "姓名： 刘若英 <br /> 性别： 女 <br />   国籍： 中国台湾 <br /> 语言： 国语;<br />  出生地： 台湾台北市 <br /> 生日： 1970-06-01 <br /> 星座： 双子座 <br /> 身高： 160cm <br /> 体重： 46kg"
-  }
+  
 ]

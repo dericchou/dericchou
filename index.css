@@ -1,0 +1,40 @@
+.products_class{height:310px; position:relative;}
+.products_class .products_list{ height:288px; width:100%; position:absolute; left:0; bottom:0;}
+.products_class .products_list li{ width:20%; float:left; height:192px; position:relative; padding-top:196px;}
+.products_list .list1{ background:url(../images/fenlei1.png) no-repeat center top;}
+.products_list .list2{ background:url(../images/fenlei2.png) no-repeat center top;}
+.products_list .list3{ background:url(../images/fenlei3.png) no-repeat center top;}
+.products_list .list4{ background:url(../images/fenlei4.png) no-repeat center top;}
+.products_list .list5{ background:url(../images/fenlei5.png) no-repeat center top;}
+.products_list li .more{ position:absolute; color:#fff;left:45px; top:144px;}
+
+.products_list li h1{ position:absolute; left:0px; top:200px; text-align:center; font-size:18px; font-weight:bold; width:200px; margin:0 auto;}
+.products_list li .jianjie p{ position:absolute;left:20px; top:240px; height:40px; font-size:12px; width:150px;  overflow:hidden; line-height:20px }
+.about_us{ padding-top:122px; background:#f2f6e7 url(../images/about.jpg) no-repeat; font-size:14px; line-height:32px; padding-bottom:50px;} 
+.wrap1{ height:300px; overflow:hidden; padding:10px; position:relative;}
+.about_us .img{ width:400px;}
+.about_us .text{ width:570px;}
+.about_us .text span{ color:#02733a;}
+.about_us .text a{ color:#ff0000;}
+.contact_wrap{ position:relative; height:50px;}
+.contact_us{width:784px; padding-left:216px; padding-top:20px; height:93px; line-height:24px; font-size:14px; color:#fff; position:absolute; left:0; top:-50px; background:url(../images/coctact_us.png) no-repeat;}
+.contact_us span{ padding-right:30px;}
+
+.pros_list{ padding-top:125px; height:30px; background:url(../images/jb.png) no-repeat center top;}
+.pros_wrap{ position:relative;height:30px;}
+.pros_list a{ position:absolute; display:block; width:150px;font-size:18px;  text-align:center; color:#4dae2d;}
+.pros_list .pro1{ left:30px; bottom:0px;}
+.pros_list .pro2{left:210px; bottom:0px;}
+.pros_list .pro3{left:420px; bottom:0px;}
+.pros_list span{ position:absolute;display:block; color:#4dae2d; font-size:18px; width:150px; text-align:center;left:620px; bottom:0px;}
+.pros_list .pro5{left:800px; bottom:0px;}
+.pro_img_list{ padding:20px 0;}
+
+.workList {width: 3600%;height:220px;position: relative;margin-left:40px;}
+.workList2 {width: 3600%;height:220px;position: relative;margin-left:40px;}
+.workItem {display:inline-block;width:216px;height:210px;line-height:30px; background:url(../images/a_bg.png) no-repeat;margin:0px 6px;text-align:center;overflow:hidden;}
+.workListWrap a span{width:100%;height:30px;display:block;font-size:16px;color:#414040;text-align:center;}
+.workItem img {display: block;width: 209px;height: 161px;float:left;margin:4px 0 0 4px;}
+#case_progress_prev2{background: url(../images/left.png) no-repeat 0 20px;height:102px;width:38px;position: absolute;z-index: 999;overflow: visible;top:20px;left:2px;}
+#case_progress_next2{ background: url(../images/right.png) no-repeat 0 20px;height:102px;width:38px; position:absolute;z-index:999; top:20px;right:0px;}
+.ctrlArea{ position: relative; z-index: 888;}

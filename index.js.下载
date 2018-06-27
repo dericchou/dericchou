@@ -1,0 +1,26 @@
+$(function(){
+	
+	/*首页滚动产品*/
+	$(".workList2").carouFredSel({
+		direction: 'left',
+		prev: '#case_progress_prev2',
+		next: '#case_progress_next2',
+		circular: true,
+		infinite: true,
+		items: {
+			visible: 4,
+			minimum: 4
+		},
+		align: false,
+		auto: {
+			play: true,
+			timeoutDuration: 1500
+		},
+		scroll:{
+			items:1,
+			pauseOnHover: true
+		}
+	
+	});
+	
+})
